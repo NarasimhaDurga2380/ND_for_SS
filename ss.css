@@ -14,6 +14,30 @@ audio {
   opacity: 0;
 }
 
+.welcomeCover{
+  z-index: 99999;
+  position: fixed;
+  top:0;
+  left: 0;
+  bottom:0;
+  height: 100vh;
+  right: 0;
+    background: url("welcomeBg.jpg");
+      background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+      justify-content: center;
+      transition: 2s all ease;
+      cursor: pointer;
+}
+.welcomeCover .songPlayBtn{
+width: 150px;
+height: 150px;
+}
 p {
   margin: 0em 5em 4em 5em;
 }

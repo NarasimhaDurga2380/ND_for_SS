@@ -15,7 +15,7 @@ var FactorForLoveFailure;
 })(FactorForLoveFailure || (FactorForLoveFailure = {}));
 var AgileCRMProjects;
 (function (AgileCRMProjects) {
-    AgileCRMProjects["S"] = "Signly";
+    AgileCRMProjects["CRMT"] = "CRM Training";
 })(AgileCRMProjects || (AgileCRMProjects = {}));
 var TipsForParentsApproval;
 (function (TipsForParentsApproval) {
